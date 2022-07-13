@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Acessibilidade Web</title>
+</head>
+
+<body style="background-color:#B7F5F8">
+  
+  <center>
+  <h2 style="background-color:#ffffff;">Sobre a Acessibilidade</h2>
+  </center>
+  
+    <center><p>Sempre arquitete sua página tendo a acessibilidade em mente, visto que você quer que ela seja visualizada e compreendida por todos que a acessem.
+    Lembre-se que acessibiliade não significa exclusivamente tornar sua página amigável para aqueles que têm alguma incapacidade que prejudica o acesso aos recursos disponíveis (óbvio que as dificuldades dessas pessoas devem ser levadas em conta), mas significa também tornar sua página clara, compatível com o máximo de sistemas e sendo fácil de utilizar.</p>
+    <p>Existem algumas boas praticas que o desenvolvedor deve ter em mente na hora de desenvolver sua página web, discutiremos algumas delas.</p>  
+    </center>
+  
+  <hr>
+
+  <center>
+  <h2 style="background-color:#ffffff;">Pontos a Se considerar</h2>
+  </center>
+  
+  <h3 style="color:38048E;">Semântica do Código:</h3> 
+    <p>Escrever as linhas de código com linguagem clara e objetiva, usando elementos que representam seu significado da forma mais objetiva o possível.</p>
+  <p>Tenha em mente também a forma que esses elementos serão configurados, visando torná-los o mais acessíveis e menos complexos o possível. Por exemplo: na hora de configurar um botão, pense em como o usuário poderia o pressionar apenas navegando com o teclado. Também encontre o local mais adequado para apresentá-lo, tornando-o bem visível e fácil de encontrar.  </p>
+  
+  <h3 style="color:38048E;"> Faça bom uso dos Headings</h3>
+    <p>Use os headings para estruturar sua página da melhor forma o possível, como para separar seções umas das outras. Nunca use os headings para colocar trechos em negrito ou para tornar palavras grandes; para essas funções, use suas tags específicas.</p>
+
+  <h3 style="color:38048E;">Clarifique seu texto</h3>
+  <p>Sempre use uma linguagem fácil de ser entendida ao escrever sua página, evitando gírias, jargões ou até mesmo caracteres que não podem ser lidos ou reconhecidos facilmente (lembre-se também que alguns usuários dependem de leitores de telas para navegar). Expresse suas ideias da forma mais breve o possível, evitando se prolongar demais com detalhamentos desnecessários, mas também evite abreviações em excesso, que podem prejudicar a compreensão do texto.</p>
+
+ <h3 style="color:38048E;">Faça bom uso dos hipertextos</h3>
+  <p>Links ou hipertextos são fundamentais dentro da web, tanto que a mesma é composta pela interligação de diversas páginas direcionadas por outras de forma consecutiva. Deixar claro o destino que cada link levará o usuário é fundamental. Evite coisas do tipo:
+  <br>
+  <br> <a href=""> <b>Clique aqui</b> </a>
+  <br> <a href=""> <b>Leia mais</b> </a>
+  <br> <b>Acesse nosso site <a href="">aqui</b> </a>
+  <br><br> Esses links ou são escassos de detalhes sobre sua real função, ou são discretos demais, o que certamente será uma dificuldade a mais para alguns usuários.
+  </p>
+  <hr>
+  
+  
+</body>
+
+</html>
